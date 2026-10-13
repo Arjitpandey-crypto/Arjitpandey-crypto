@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello, I'm Shubham Vishwakarma
+# 👋 Hello, I'm Arjit Kumar pandey 
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer+%7C+Problem+Solver;Java+%7C+Spring+Boot+%7C+Backend+Development;Passionate+about+Clean+Code+%26+Scalable+Systems;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 
