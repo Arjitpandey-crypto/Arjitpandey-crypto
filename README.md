@@ -10,11 +10,9 @@
 🌟 Passionate Backend Developer specializing in Java from India 🇮🇳
 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=S
-Arjitpandey-crypto&label=Profile%20views&color=00d9ff&style=for-the-badge)](https://github.com Arjitpandey-crypto)
-[![Twitter Follow](https://img.shields.io/twitter/follow/shubham759316?logo=twitter&style=for-the-badge&color=1DA1F2)](https://x.com/shubham759316)
-[![GitHub Followers](https://img.shields.io/github/followers/ShubhamV-17?logo=github&style=for-the-badge&color=00d9ff)](https://github.com/ShubhamV-17)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=Arjitpandey-crypto&label=Profile%20Views&color=00d9ff&style=for-the-badge)](https://github.com/Arjitpandey-crypto)
+[![Twitter Follow](https://img.shields.io/badge/Follow%20on-X-black?logo=x&style=for-the-badge)](https://x.com/ArjitPandev37)
+[![GitHub Followers](https://img.shields.io/github/followers/Arjitpandey-crypto?logo=github&style=for-the-badge&color=00d9ff)](https://github.com/Arjitpandey-crypto)
 
 </div>
 
@@ -93,30 +91,30 @@ Arjitpandey-crypto&label=Profile%20views&color=00d9ff&style=for-the-badge)](http
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
+
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ShubhamV-17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Arjitpandey-crypto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamV-17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjitpandey-crypto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 </div>
 
+
 ### 🔥 GitHub Streak & Activity
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamV-17&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arjitpandey-crypto&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+
