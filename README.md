@@ -30,12 +30,11 @@
  
 - 💬 Ask me about **Java, Backend Development, Data Structures and Algorithms**
   
-- 📫 How to reach me shubham10137@gmail.com
+- 📫 How to reach me pandeyarjit109@gmail.com
   
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShubhamV-17/ShubhamV-17/main/coding%20pro.svg" width="500" alt="Coding illustration">
+  <img src="Hey.gif" width="500" alt="Hey Animation">
 </div>
-
 ## 🚀 About Me
 
 <div align="center">
@@ -108,7 +107,6 @@
 </table>
 
 </div>
-
 
 ### 🔥 GitHub Streak & Activity
 
